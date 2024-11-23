@@ -1,0 +1,1 @@
+Optimal Parameters: Ms=400, pds=2.9, sg=16, PSNR=24.881414434413042

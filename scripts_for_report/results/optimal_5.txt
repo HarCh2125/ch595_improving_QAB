@@ -1,0 +1,2 @@
+OUTPUT:
+ SNR = 22.60 and PSNR = 27.71

@@ -1,0 +1,51 @@
+OUTPUT:
+ SNR = 15.61 and PSNR = 22.42
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 16.75 and PSNR = 22.89
+OUTPUT:
+ SNR = 15.49 and PSNR = 22.64
+OUTPUT:
+ SNR = 16.41 and PSNR = 22.73
+OUTPUT:
+ SNR = 17.33 and PSNR = 23.34
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 16.75 and PSNR = 22.89
+OUTPUT:
+ SNR = 16.41 and PSNR = 22.73
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.33 and PSNR = 23.34
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.33 and PSNR = 23.34
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 15.31 and PSNR = 23.13
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.32 and PSNR = 23.43
+OUTPUT:
+ SNR = 17.04 and PSNR = 22.98
+OUTPUT:
+ SNR = 17.57 and PSNR = 23.56
+OUTPUT:
+ SNR = 15.35 and PSNR = 22.21
+OUTPUT:
+ SNR = 17.56 and PSNR = 23.28
+Generation 0: Best Fitness = 23.43335310400839Generation 1: Best Fitness = 23.43335310400839Generation 2: Best Fitness = 23.43335310400839Stopping early at generation 3 due to lack of improvement.Best Solution: [1000, 2.6, 15]

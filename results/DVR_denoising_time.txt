@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "dvr_denoising.py", line 3, in <module>
+    from scipy.fft import fft, ifft, fftfreq
+ModuleNotFoundError: No module named 'scipy.fft'
+
+real	0m0.356s
+user	0m0.190s
+sys	0m0.037s

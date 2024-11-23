@@ -1,0 +1,91 @@
+OUTPUT:
+ SNR = 22.71 and PSNR = 27.83
+OUTPUT:
+ SNR = 22.42 and PSNR = 27.53
+OUTPUT:
+ SNR = 22.64 and PSNR = 27.76
+OUTPUT:
+ SNR = 22.54 and PSNR = 27.66
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 22.67 and PSNR = 27.78
+OUTPUT:
+ SNR = 22.71 and PSNR = 27.83
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 22.64 and PSNR = 27.76
+OUTPUT:
+ SNR = 22.23 and PSNR = 27.34
+OUTPUT:
+ SNR = 22.67 and PSNR = 27.78
+OUTPUT:
+ SNR = 22.71 and PSNR = 27.83
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 22.71 and PSNR = 27.83
+OUTPUT:
+ SNR = 22.58 and PSNR = 27.70
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 22.71 and PSNR = 27.83
+OUTPUT:
+ SNR = 23.34 and PSNR = 28.46
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 22.90 and PSNR = 28.01
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 23.34 and PSNR = 28.46
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 23.31 and PSNR = 28.42
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.34 and PSNR = 28.46
+OUTPUT:
+ SNR = 22.39 and PSNR = 27.51
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.34 and PSNR = 28.46
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 22.90 and PSNR = 28.01
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 23.36 and PSNR = 28.47
+OUTPUT:
+ SNR = 22.62 and PSNR = 27.73
+OUTPUT:
+ SNR = 22.42 and PSNR = 27.53
+OUTPUT:
+ SNR = 22.98 and PSNR = 28.09
+OUTPUT:
+ SNR = 22.81 and PSNR = 27.95
+Generation 0: Best Fitness = 28.42098780089506Generation 1: Best Fitness = 28.42098780089506Generation 2: Best Fitness = 28.472891678024354Generation 3: Best Fitness = 28.472891678024354Generation 4: Best Fitness = 28.472891678024354Generation 5: Best Fitness = 28.472891678024354Generation 6: Best Fitness = 28.472891678024354Stopping early at generation 7 due to lack of improvement.Best Solution: [900, 29.6, 17]

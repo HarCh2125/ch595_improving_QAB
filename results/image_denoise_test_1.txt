@@ -1,0 +1,20 @@
+
+real	84m36.697s
+user	84m24.349s
+sys	0m0.264s
+OUTPUT:
+ SNR = 23.00 and PSNR = 28.46
+OUTPUT:
+ SNR = 22.04 and PSNR = 28.20
+OUTPUT:
+ SNR = 16.70 and PSNR = 22.98
+OUTPUT:
+ SNR = 15.10 and PSNR = 22.46
+OUTPUT:
+ SNR = 13.40 and PSNR = 20.34
+OUTPUT:
+ SNR = 13.32 and PSNR = 19.77
+OUTPUT:
+ SNR = 13.38 and PSNR = 20.22
+OUTPUT:
+ SNR = 13.33 and PSNR = 20.09
